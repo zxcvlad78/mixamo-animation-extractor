@@ -1,4 +1,4 @@
-# A simple mixamo animation extractor for godot 4
+# A simple Mixamo animation extractor for Godot 4
 
 
 # How to use
