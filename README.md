@@ -1,7 +1,9 @@
-A simple mixamo animation extractor for godot 4
+# A simple mixamo animation extractor for godot 4
 
 
-#How to use
+# How to use
 
--Press RMB at the model file (.glb, .fbx, etc...)
-![](url/screenshot.png)
+- Right-click on the model file (.glb, .fbx, etc...)
+- Click the "Extract Mixamo Animation" button
+
+![](screenshot.png)
